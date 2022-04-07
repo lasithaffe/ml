@@ -1,0 +1,342 @@
+/* nunito-sans-regular - latin */
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/nunito-sans-v11-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/nunito-sans-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/nunito-sans-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/nunito-sans-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/nunito-sans-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/nunito-sans-v11-latin-regular.svg#NunitoSans') format('svg');
+    /* Legacy iOS */
+}
+
+p {
+    font-family: Nunito, sans-serif !important;
+    font-weight: 500 !important;
+}
+
+.research-center .place,
+.about h3,
+.faq-one-accrodion .accrodion-title h4,
+.head-0101,
+.spec-caractr,
+.about-img .spec-caractor,
+.research-center001 h3,
+.about .about__title,
+.text-heading-h3,
+.clo001 h2,
+.reasons__title,
+.research-center .para00890,
+.team-one__text2 h3,
+.team-one__text h3 {
+    font-family: 'Marcellus' !important;
+}
+
+.research-center p {
+    line-height: 1.9;
+    font-family: inherit;
+}
+
+.about-section-four .image-block {
+    background-image: url(../img/resources/faq-one-img-1.jpg) !important;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.about-section-four01 {
+    background-image: url(../img/backgrounds/page-header01.jpg) !important;
+}
+
+.about .about__right-text {
+    line-height: 1.6;
+}
+
+.about .about__title {
+    padding-bottom: 10px;
+}
+
+.video-area:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 50%;
+    z-index: -1;
+    background-color: #f8e4d7;
+}
+
+.video-area {
+    z-index: 1;
+    position: relative;
+}
+
+.video-box .image img {
+    border-radius: 5px;
+    -moz-transition: .5s;
+    transition: .5s;
+}
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
+.video-box {
+    position: relative;
+    border-radius: 5px;
+    max-width: 800px;
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.video-area {
+    z-index: 1;
+    position: relative;
+}
+
+.video-box:hover .image img {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1);
+    -moz-transform: scale3d(1.1, 1.1, 1.1);
+    transform: scale3d(1.1, 1.1, 1.1);
+}
+
+.video-box .image img {
+    border-radius: 5px;
+    -moz-transition: .5s;
+    transition: .5s;
+}
+
+.video-area .video-box {
+    box-shadow: none;
+}
+
+.services .text-heading-h3 {
+    color: #000;
+}
+
+.src-001 p {
+    text-align: center;
+    padding: 0px 10%;
+    font-size: 15px;
+    line-height: 2;
+    color: #726f84;
+}
+
+
+/*  */
+
+.bg-line.red {
+    background: repeating-linear-gradient(-55deg, rgba(255, 255, 255, 0) 0.8px, #e2626b 1.6px, #e2626b 3px, rgba(255, 255, 255, 0) 3.8px, rgba(255, 255, 255, 0) 10px);
+}
+
+.shape.rellax {
+    z-index: 1;
+}
+
+.shape.rellax {
+    position: absolute;
+}
+
+.bg-dot,
+.bg-line {
+    opacity: .4;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+}
+
+.h-18 {
+    height: 8rem!important;
+}
+
+.w-18 {
+    width: 8rem!important;
+}
+
+.position-relative {
+    position: relative!important;
+}
+
+.shape.rellax {
+    z-index: 1;
+}
+
+.shape.rellax {
+    position: absolute;
+}
+
+.bg-soft-primary {
+    background-color: #f1f5fd!important;
+}
+
+.rounded {
+    border-radius: 0.4rem!important;
+}
+
+.position-relative .shape.rellax+figure {
+    position: relative;
+    z-index: 2;
+}
+
+.rounded {
+    border-radius: 0.4rem!important;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+figure {
+    margin: 0 0 1rem;
+}
+
+.rounded img {
+    border-radius: 0.4rem;
+}
+
+figure img {
+    width: 100%;
+    max-width: 100%;
+    height: auto!important;
+}
+
+.we-facuse {
+    background-color: #fff !important;
+    text-align: center;
+}
+
+.we-facuse .reasons__title {
+    margin-bottom: 0px;
+}
+
+.we-facuse .services-two__icon span {
+    color: #ecb795;
+}
+
+.v1-001 {
+    margin: 17% 0px 0px;
+}
+
+.research-center001 {
+    background-color: #f8e4d7;
+    padding: 6%;
+}
+
+.research-center {
+    padding-bottom: 0px;
+}
+
+.research-center001 h3 {}
+
+.about-001 {
+    background: #f9f9f9;
+    margin-bottom: 31px;
+}
+
+.team-one__text h3,
+.team-one__text h4 {
+    text-align: left;
+    color: black;
+}
+
+.team-one__text {
+    padding-top: 90px;
+}
+
+.about-001 .section-title p {
+    font-size: 15px;
+}
+
+.about-mnlod,
+.section-title p {
+    margin: 0px 10%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.team-one__text h4 {
+    color: #bb6707;
+    font-style: inherit;
+    font-weight: 400;
+}
+
+.col-ceter {
+    display: block;
+    margin: 0 auto;
+}
+
+.spec-caractr {
+    font-size: 24px !important;
+    text-align: center;
+    line-height: 35px !important;
+    color: #b7772e;
+    padding-top: 80px;
+    font-style: italic;
+}
+
+.src-001 img {
+    width: 80px;
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.head-0101 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.video-box2 {
+    width: 500px;
+    box-shadow: none !important;
+}
+
+.place {
+    color: #000 !important;
+}
+
+.library h3 {
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 60px;
+    text-transform: uppercase;
+    margin-top: -12px;
+}
+
+.faq-one-accrodion .accrodion-content p,
+.cta-two__text {
+    font-size: 15px;
+    margin: 0;
+    line-height: 2;
+}
+
+.btn-inner-artcles {
+    border: none;
+    margin-top: 20px;
+    background: #ffb081;
+    padding: 4px 20px;
+    border-radius: 21px;
+    color: #000;
+    box-shadow: 0px 2px 9px -5px;
+}
+
+.faq-one-accrodion .accrodion-title h4 {
+    text-transform: none;
+    font-size: medium;
+}
+
+.cp-003 h2 {
+    color: #fff;
+}
+
+
+/* consult */
