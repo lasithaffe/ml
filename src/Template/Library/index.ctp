@@ -35,7 +35,7 @@
                     </div>
                     <div class="welcome-one__call-text">
                         <p>Have you got any questions? Give us a call!</p>
-                        <a href="tel:+1-800-537-6057">+1 (800) 537-6057</a>
+                        <a href="tel:+1-800-537-6057">+1-312 925 9041</a>
                     </div>
                 </div>
             </div>

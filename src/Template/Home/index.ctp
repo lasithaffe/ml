@@ -63,23 +63,23 @@
         </div>
 </section>
 <!--Real World Start-->
-<section class="real-world">
+<section class="section-002 real-world">
     <div class="real-world-shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms" ></div>
     <div class="container">
         <div class="section-title text-center">
-            <h2 class="section-title__title">Have you seen you?</h2>
+            <h2 class="white-colore-text section-title__title">Have you seen you?</h2>
             <span class="midle-font section-title__tagline">Do-it-yourself techniques</span>
         </div>
         <div class="row">
             <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                 <!--Real World Single-->
                 <div class="real-world__single">
-                    <h2 class="real-world__title">
+                    <h2 class="white-colore-text  real-world__title">
                         An exercise in relaxation – practice leadership with breathing in & breathing out
                     </h2>
 
 
-                    <p class="para-001 text-jusftify-word" >
+                    <p class="white-colore-text  para-001 text-jusftify-word" >
                         Until you experience proper relaxation, you do not know the difference between tension and relaxation. You will realize it only when you experience it. Modern leaders have to react and get more emotionally involved which develop tensions leaving little
                         room to experience relaxation. Proper meditation involving breathing in and out trains individuals to relax and calm the mind consciously.
                     </p>
@@ -89,8 +89,8 @@
             <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                 <!--Real World Single-->
                 <div class="real-world__single">
-                    <h2 class="real-world__title">Giving up the awareness of existence and taking up the awareness of experience </h2>
-                    <p class="para-001 text-jusftify-word" >
+                    <h2 class="white-colore-text real-world__title">Giving up the awareness of existence and taking up the awareness of experience </h2>
+                    <p class="white-colore-text  para-001 text-jusftify-word" >
                         Introspective individuals should be aware of what is happening within: what is happening in the body? What kind of feelings are there? What kind of emotional reactions are there? And what thoughts are being entertaining? Attention should be focused on
                         those—similar to watching a movie inside. You can experience this through the exercise of practicing doing things slowly.</p>
                     <!-- <a href="#" class="real-world__btn">Read More</a> -->
@@ -105,7 +105,7 @@
 
 
 <!--Welcome One Start-->
-<section class="welcome-one">
+<section class="mb-sec welcome-one">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6">
@@ -210,7 +210,7 @@
     </div>
 </section>
 <!--Real World Start-->
-<section class="welcome-one">
+<section class="mn-sect01 welcome-one">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6">
@@ -258,7 +258,7 @@
                         </div>
                         <div class="welcome-one__call-text">
                             <p>Have you got any questions? Give us a call!</p>
-                            <a href="tel:+1-800-537-6057">+1 (800) 537-6057</a>
+                            <a href="tel:+1-800-537-6057">+1-312 925 9041</a>
                         </div>
                     </div>
                     <div class="welcome-one__big-text">Manolead</div>
@@ -286,7 +286,7 @@
                     <?= $this->Html->image('resources/podcast.jpg', ['alt' => 'podcasts on introspective leadership and introspection']); ?>
 
                     <h4>PODCAST</h4>
-                    <p>We conduct regular podcasts on introspective leadership and introspection. Stay tuned for exciting episodes that can transform the way your mind works. </p>
+                    <p>We conduct regular podcasts on introspective leadership and introspection. Stay tuned for exciting episodes... </p>
                     <a href="#" class="btn-link-2">Play now</a>
                 </div>
             </div>
@@ -305,7 +305,7 @@
                 <div class="prodcu-home">
                     <?= $this->Html->image('resources/speeck3.jpg', ['alt' => 'ManoLead Consultation is available for organizations at their own locations where introspection/mindfulness experts will visit to provide.']); ?>
                     <h4> CONSULTATION </h4>
-                    <p>ManoLead Consultation is available for organizations at their own locations where introspection/mindfulness experts will visit to provide. </p>
+                    <p>ManoLead Consultation is available for organizations at their own locations where introspection/mindfulness experts.... </p>
 
                     <a href="#" class="btn-link-2">Connect with us </a>
                 </div>
@@ -315,7 +315,7 @@
 </section>
 
 <!--Cases One Start-->
-<section style=" background-image: url(.../../img/Banner-3.jpg); height: calc(37vw + 40px); background-size: contain;" class="homesect cases-one">
+<section style=" background-image: url(.../../img/Banner0.jpg); height: calc(37vw + 40px); background-size: contain;" class="homesect cases-one">
     <div class="container">
         <div class="section-title text-center">
             <h2 class="section-title__title">STRATEGIC CONSULTING </h2>
@@ -331,7 +331,10 @@
             <span class="section-title__tagline">To teach and train introspective leadership.</span>
             <p>Practice mindfulness and become directly aware of your experience – an awareness of the workings of your mind.</p>
         </div>
-        <table style="width:100%; border:none">
+        <div class="mb0ds0">
+        <?= $this->Html->image('backgrounds/chart.jpg', ['alt' => ' introspection and introspective leadership']); ?>
+        </div>
+        <table class="mb0ds02" style="width:100%; border:none">
 
 
             <tr>

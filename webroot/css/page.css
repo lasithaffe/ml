@@ -258,8 +258,8 @@ figure img {
 
 .about-mnlod,
 .section-title p {
-    margin: 0px 10%;
-    text-align: center;
+    /* margin: 0px 10%; */
+    text-align: left;
     font-size: 15px;
 }
 
@@ -334,8 +334,191 @@ figure img {
     font-size: medium;
 }
 
-.cp-003 h2 {
-    color: #fff;
+.cp-003 h2,
+.white-colore-text {
+    color: #fff !important;
+}
+
+.section-002.real-world .real-world__single:hover {
+    background-color: #201e3a;
+}
+
+.video-box .image {
+    width: 100%;
+    height: 500px;
+}
+
+.services-two .section-title p {
+    text-align: center !important;
+}
+
+@media (max-width: 480px) {
+    .main-header {
+        background-color: #0f0d1d;
+    }
+    .main-slider1 {
+        margin-top: 19%;
+    }
+    .cp-002 .b-dash {
+        font-size: 1rem;
+    }
+    .cp-003 h2 {
+        font-size: 19px;
+    }
+    .cp-001 h2 {
+        font-size: 2rem;
+    }
+    .cp-002 .cl0001 {
+        font-size: 1rem;
+    }
+    .cp-002 p {
+        font-size: 2rem;
+        padding: 3px;
+    }
+    .midle-font {
+        padding-top: 11px;
+    }
+    .real-world__title {
+        line-height: 23px;
+        margin-bottom: 7px;
+    }
+    .mb-sec {
+        padding: 30px 0 0px !important;
+    }
+    .real-world .section-title__tagline,
+    .welcome-one__left .main {
+        color: #9d9797;
+    }
+    .mb-sec .section-title__title {
+        text-align: center;
+        line-height: 1;
+        margin-top: -20px;
+    }
+    .welcome-one__right {
+        margin-top: 0px;
+    }
+    .mb-sec .welcome-one__text {
+        padding-bottom: 10px;
+    }
+    .introspection-011 .section-title__title {
+        line-height: 34px !important;
+        font-size: 28pt !important;
+    }
+    .mn-sect01 .welcome-one__img-1>img {
+        width: 70%;
+    }
+    .welcome-one__call-icon {
+        width: 14%;
+        margin: 0 auto;
+    }
+    .welcome-one__call-text {
+        text-align: center;
+        font-size: 10pt;
+    }
+    .part-2 {
+        padding: 50px 20px 10px;
+    }
+    .prodcu-home {
+        min-height: 340px;
+    }
+    .homesect {
+        height: calc(38vw + 90px) !important;
+    }
+    .cases-one .section-title__title {
+        font-size: 28px;
+        line-height: 0px;
+    }
+    .mb0ds02 {
+        display: none;
+    }
+    .mb0ds0 {
+        display: block !important;
+    }
+    .testimonials-one {
+        padding: 50px 0 0px;
+    }
+    .testimonials-one__left .section-title__title {
+        font-size: 28px;
+        text-align: center;
+    }
+    .about-mnlod,
+    .section-title p {
+        font-size: 13px;
+    }
+    .testimonials-one__text {
+        margin: 0;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+    .testimonials-one__single {
+        padding: 30px 25px 7px;
+    }
+    /* footer */
+    .site-footer__top {
+        padding: 35px 0 6px
+    }
+    .footer-widget__about-logo img {
+        width: 140px;
+        display: block;
+        margin: 0 auto;
+        padding: 10px 0px;
+    }
+    .footer-widget__about-logo {
+        margin-bottom: 0;
+    }
+    .footer-widget__title-news {
+        margin-bottom: 2px;
+    }
+    .footer-widget__text {
+        font-size: 13px;
+        text-align: center;
+    }
+    .site-footer__social {
+        display: none;
+    }
+    /* services */
+    .services .place {
+        font-size: 14pt;
+        padding: 0px;
+    }
+    .faq-one {
+        padding: 30px 0 120px;
+    }
+    .consulting-row {
+        padding: 10px 0 30px !important;
+    }
+    .consulting-row .about__right-text {
+        padding-bottom: 20px;
+    }
+    .consulting-row img {
+        padding-top: 20px;
+        margin: 0 auto;
+        display: block;
+    }
+    .consulting-row .about__title,
+    .services .text-heading-h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+    .clo001 {
+        padding: 30px;
+    }
+    .consulting-row p {
+        font-size: 10pt;
+    }
+    .services-two {
+        padding: 80px 0 0px;
+    }
+    .mnlod-about {
+        padding: 40px 0 49px;
+    }
+    .message-box {
+        padding: 60px 0 90px;
+    }
+}
+
+.mb0ds0 {
+    display: none;
 }
 
 

@@ -1975,7 +1975,7 @@ body.boxed-wrapper {
 .real-world {
     position: relative;
     display: block;
-    /* background-color: var(--thm-black); */
+    background-color: var(--thm-black);
     padding: 120px 0 90px;
 }
 
@@ -8298,6 +8298,7 @@ video {
     left: 0;
     height: 100%;
     width: 100%;
+    filter: brightness(0.5);
 }
 .video-wrapper {
     /* border: 2px solid #000; */
@@ -8730,7 +8731,7 @@ img {
     padding: 80px 0px 60px;
 }
 .about-section-four-le8 {
-    background-image: url(../img/backgrounds/img-002.jpg);
+    /* background-image: url(../img/backgrounds/img-002.jpg); */
     background-position: left;
 }
 .consult .services-two__text {

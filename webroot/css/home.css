@@ -363,7 +363,7 @@
                 }
                 .real-world .section-title__title {
                     line-height: 0px !important;
-                    font-size: 32pt !important;
+                    font-size: 28pt !important;
                 }
                 .midle-font {
                     font-size: 14px;
@@ -381,10 +381,11 @@
                     margin-bottom: 0px;
                 }
                 .para0,
-                .real-world .real-world__single p {
-                    line-height: 13px;
+                .real-world .real-world__single p,
+                .mn-sect01 .text-jusftify-word {
+                    line-height: 15px;
                     text-align: center;
-                    font-size: 10px !important;
+                    font-size: 10pt !important;
                 }
                 .real-world__single {
                     padding: 4px 10px 5px !important;

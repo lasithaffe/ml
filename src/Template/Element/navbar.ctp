@@ -49,14 +49,7 @@
                             'action' => 'index'
                         ));
                             ?>
-                            <ul>
-                                <!-- <li><a href="#">Academia</a></li> -->
-                                <li>    <?= $this->Html->link('Contact', array(
-                            'controller' => 'Academia',
-                            'action' => 'index'
-                        ));
-                            ?> </li>
-                            </ul>
+                   
                         </li>
                         <li class="dropdown">
                         <?= $this->Html->link('About', array(
@@ -78,7 +71,7 @@
             <div class="main-menu-wrapper__right">
                 <div class="main-menu-wrapper__phone-contact">
                     <p>Connect with us</p>
-                    <a href="tel:+1(800) 888 0000">+1 (800) 537-6057</a>
+                    <a href="tel:+1(800) 888 0000">+1-312 925 9041</a>
                 </div>
             </div>
         </div>

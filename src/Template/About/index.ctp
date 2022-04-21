@@ -23,7 +23,7 @@
 <!--Page Header End-->
 
 <!--About Start-->
-<section class="about">
+<section class="mnlod-about about">
     <div class="container">
         <div class="row">
 

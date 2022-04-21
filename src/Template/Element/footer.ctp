@@ -17,7 +17,7 @@
                                     <i class="fas fa-phone-square-alt"></i>
                                 </div>
                                 <div class="text">
-                                    <p><a href="tel:+1-800-888-0000">+1(800) 888 0000</a></p>
+                                    <p><a href="tel:+1-800-888-0000">+1-312 925 9041</a></p>
                                 </div>
                             </li>
                             <li>
@@ -43,8 +43,8 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled">
-                            <li><a href="research-center.html">Research Center</a></li>
-                            <li><a href="consulting.html">Consulting</a></li>
+                            <li><a href="#">Research Center</a></li>
+                            <li><a href="#">Consulting</a></li>
                             <li><a href="#">Organizations</a></li>
                             <li><a href="#">Leaders</a></li>
                             <li><a href="#">Youth</a></li>

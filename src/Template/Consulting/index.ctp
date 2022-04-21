@@ -16,7 +16,7 @@
              </div>
          </section>
          <!--Page Header End-->
-         <section class="about">
+         <section class="consulting-row about">
              <div class="container">
                  <div class="row">
 
@@ -105,7 +105,10 @@
              <div class="container">
                  <div class="video-box mt-0">
                      <div class="image">
-                         <?= $this->Html->image('resources/video-img2.jpg', ['alt' => 'ManoLead Research Center']); ?>
+                     <?= $this->Html->media(
+     ['video.mp4', ['src' => 'video.ogv', 'type' => "video/ogg; codecs='theora, vorbis'"]],
+     ['tag' => 'video', 'autoplay']);?>
+                    
                      </div><a class="video-btn popup-youtube" href="#"><i class="flaticon-play"></i></a>
                  </div>
              </div>
@@ -138,11 +141,11 @@
          <section class="about-section-four-le8 about-section-four">
          <div class="container">
              <div class="row">
-                 <div class="row col-lg-6">
+                 <div class="row col-lg-6 col-sm-12">
                      <div class="image-block">
                      </div>
                  </div>
-                 <div class="row clo001 col-lg-6">
+                 <div class="row clo001 col-lg-6 col-sm-12">
                      <div class="sec-title style-four">
                          <h2>ManoLead Strategic Consultancy
                          </h2>

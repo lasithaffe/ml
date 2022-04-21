@@ -36,7 +36,7 @@
                             <div class="section-title text-left">
                                 <h3 class="section-title__title">Contact</h3>
                                 <span class="section-title__tagline">Email: manolead@intterminal.com</span>
-                                <span class="section-title__tagline">Phone: +1 (800) 537-6057</span>
+                                <span class="section-title__tagline">Phone: +1-312 925 9041</span>
                                 <span class="section-title__tagline">North America | Sri lanka</span>
                             </div>
                             <div class="message-box__social">
@@ -90,7 +90,7 @@
                 <section class="our-mission">
 
 <div class="video-wrapper our-mission-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%">
-    <video playsinline autoplay muted loop poster="img/footer-logo.png">
+    <video playsinline autoplay muted loop poster="img/video-profile.jpg">
         <source src=".../../img/slider2.mp4" type="video/webm">
         Your browser does not support the video tag.
     </video>
